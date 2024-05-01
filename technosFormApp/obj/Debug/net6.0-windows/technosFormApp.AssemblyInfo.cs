@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("technosFormApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934d39fc101fea1a4a21d3758486b13eb9508660")]
 [assembly: System.Reflection.AssemblyProductAttribute("technosFormApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("technosFormApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

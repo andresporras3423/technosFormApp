@@ -77,7 +77,7 @@ namespace technosFormApp
             return null;
         }
 
-        public string connectionString = "Data Source=DESKTOP-C4J7U97\\SQLEXPRESS;Initial Catalog=test;Integrated Security=True";
+        public string connectionString = "Data Source=DESKTOP-KNKLQ23\\MSSQLSERVER01;Initial Catalog=test;Integrated Security=True";
         public List<Dictionary<string, object>> run_select(string query)
         {
 

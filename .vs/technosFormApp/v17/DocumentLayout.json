@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|c:\\users\\dell\\onedrive\\visual studio projects\\technosformapp\\technosformapp\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|solutionrelative:technosformapp\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|c:\\users\\dell\\onedrive\\visual studio projects\\technosformapp\\technosformapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|solutionrelative:technosformapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|c:\\users\\dell\\onedrive\\visual studio projects\\technosformapp\\technosformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|solutionrelative:technosformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|c:\\users\\dell\\onedrive\\visual studio projects\\technosformapp\\technosformapp\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|solutionrelative:technosformapp\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|c:\\users\\dell\\onedrive\\visual studio projects\\technosformapp\\technosformapp\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|solutionrelative:technosformapp\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|c:\\users\\dell\\onedrive\\visual studio projects\\technosformapp\\technosformapp\\classes\\techno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2782F1C-2D17-4F4B-80A3-1A42EADBCCE6}|technosFormApp\\technosFormApp.csproj|solutionrelative:technosformapp\\classes\\techno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\Program.cs",
+              "RelativeDocumentMoniker": "technosFormApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\Program.cs",
+              "RelativeToolTip": "technosFormApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:25:53.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "technosFormApp\\GlobalVariables.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\GlobalVariables.cs",
+              "RelativeToolTip": "technosFormApp\\GlobalVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:25:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\classes\\User.cs",
+              "RelativeDocumentMoniker": "technosFormApp\\classes\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\classes\\User.cs",
+              "RelativeToolTip": "technosFormApp\\classes\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:25:51.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLConnection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\SQLConnection.cs",
+              "RelativeDocumentMoniker": "technosFormApp\\SQLConnection.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\SQLConnection.cs",
+              "RelativeToolTip": "technosFormApp\\SQLConnection.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:24:36.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "technosFormApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\Form1.Designer.cs",
+              "RelativeToolTip": "technosFormApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:25:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Techno.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\classes\\Techno.cs",
+              "RelativeDocumentMoniker": "technosFormApp\\classes\\Techno.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\visual studio projects\\technosFormApp\\technosFormApp\\classes\\Techno.cs",
+              "RelativeToolTip": "technosFormApp\\classes\\Techno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:25:49.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
